@@ -1,0 +1,11 @@
+this is for git
+this is my change
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+this is remote cahnge
+=======
+this is local change
+>>>>>>> Stashed changes
+=======
+this is local change
+>>>>>>> Stashed changes
